@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f0813644.chunk.css",
+    "main.js": "/static/js/main.cf32b995.chunk.js",
+    "main.js.map": "/static/js/main.cf32b995.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.af97d5a7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.af97d5a7.js.map",
+    "static/css/2.96479aa2.chunk.css": "/static/css/2.96479aa2.chunk.css",
+    "static/js/2.a34996b4.chunk.js": "/static/js/2.a34996b4.chunk.js",
+    "static/js/2.a34996b4.chunk.js.map": "/static/js/2.a34996b4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a6d89af768a3896e51f7c3f47d60e349.js": "/precache-manifest.a6d89af768a3896e51f7c3f47d60e349.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.96479aa2.chunk.css.map": "/static/css/2.96479aa2.chunk.css.map",
+    "static/css/main.f0813644.chunk.css.map": "/static/css/main.f0813644.chunk.css.map",
+    "static/js/2.a34996b4.chunk.js.LICENSE": "/static/js/2.a34996b4.chunk.js.LICENSE",
+    "static/media/Flighttix.de.png": "/static/media/Flighttix.de.daea361f.png",
+    "static/media/Flighttix.pl.png": "/static/media/Flighttix.pl.daea361f.png",
+    "static/media/Tix.fr.png": "/static/media/Tix.fr.5701cc60.png",
+    "static/media/about-us.jpg": "/static/media/about-us.57e9ba74.jpg",
+    "static/media/style.scss": "/static/media/bg1.13795980.jpg",
+    "static/media/logo.png": "/static/media/logo.81ad8f4c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af97d5a7.js",
+    "static/css/2.96479aa2.chunk.css",
+    "static/js/2.a34996b4.chunk.js",
+    "static/css/main.f0813644.chunk.css",
+    "static/js/main.cf32b995.chunk.js"
+  ]
+}
